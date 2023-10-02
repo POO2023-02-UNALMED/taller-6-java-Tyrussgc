@@ -11,7 +11,7 @@ public class Automovil extends Vehiculo {
 	        this.peso = peso;
 	        this.fabricante = fabricante;
 	        this.puestos = puestos;
-	        cantidadAutos++;
+	        CantidadAutos++;
 	    }
 
 	    public int getPuestos() {
